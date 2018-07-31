@@ -11,6 +11,6 @@ class App < Sinatra::Base
   end
   
   get '/favorite-song' do
-    "My favorit"
+    "My favorite song is All Too Well by Taylor Swift"
   end
 end
